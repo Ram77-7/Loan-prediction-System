@@ -1,0 +1,7 @@
+streamlit==1.45.0
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+tensorflow==2.19.0
