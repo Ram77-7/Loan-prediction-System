@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://loan-prediction-fastapi-1-an0i.onrender.com//predict"
 
 st.title("Loan Approval Prediction")
 
